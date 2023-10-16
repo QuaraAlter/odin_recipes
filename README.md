@@ -1,0 +1,1 @@
+In this project, I am going to practice the basics of HTML. I will demonstrate that I can make a basic page, with text divided in paragraphs, links, images and lists
